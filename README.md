@@ -11,3 +11,6 @@ Output:
 79135
 91357
 [Pattern](https://github.com/Madhurima1997/Python-Programs/blob/master/pattern.py)
+
+Group the anagrams together
+[Solution](https://github.com/Madhurima1997/Python-Programs/new/master)
