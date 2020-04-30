@@ -13,4 +13,4 @@ Output:
 [Pattern](https://github.com/Madhurima1997/Python-Programs/blob/master/pattern.py)
 
 Group the anagrams together
-[Solution](https://github.com/Madhurima1997/Python-Programs/new/master)
+[Solution](https://github.com/Madhurima1997/Python-Programs/anagram.py)
