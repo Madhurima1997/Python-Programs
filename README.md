@@ -15,3 +15,8 @@ Output:<br />
 Group the anagrams together<br />
 [Solution](https://github.com/Madhurima1997/Python-Programs/blob/master/anagram.py)
 
+# 100DaysOfPython
+This is the 100 days of python challenge to quickly evise complete python
+Aiming to be consistent here and would document anything new that I would learn in this journey!
+Here are the exercises.
+- **Day 1 : String Manipulation** [Band Generator Console]()
