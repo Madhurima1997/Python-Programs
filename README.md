@@ -19,4 +19,4 @@ Group the anagrams together<br />
 This is the 100 days of python challenge to quickly evise complete python
 Aiming to be consistent here and would document anything new that I would learn in this journey!
 Here are the exercises.
-- **Day 1 : String Manipulation** [Band Generator Console]()
+- **Day 1 : String Manipulation** [Band Generator Console](https://github.com/Madhurima1997/Python-Programs/tree/master/day01)
