@@ -13,4 +13,4 @@ print('Hello ! Welcome to band name generator! 1\n')
 city = input('Enter your city\n')
 pet = input('Enter your pet\'s name \n')
 band_name = city+" "+pet
-print('your brand name is !! {}',band_name)
+print('your brand name is !! ',band_name)
