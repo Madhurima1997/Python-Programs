@@ -7,4 +7,4 @@ person = int(input("How many people are splitting the bill ? \n"))
 tip = int(input("How much tip would you like to give? 10, 12, or 15? "))
 
 tipShare = round(((bill/person) * ((100 + tip)/100)),2)
-print("You need to pay ${:0.2f}".format(tipShare))
+print(f"You need to pay ${tipShare:0.2f}")
