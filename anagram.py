@@ -4,7 +4,7 @@ d={}
 for word in lst:
     KEY=''.join(sorted(word))
     #check if key exists in dictionary
-    if KEY in d.keys():
+    if KEY in d:
         d[KEY].append(word)
     else:
         d[KEY]=[]
