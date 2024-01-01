@@ -1,4 +1,6 @@
-""" You are given a string . Suppose a character '' occurs consecutively  times in the string. Replace these consecutive 
+""" You are given a string . 
+Suppose a character '' occurs consecutively  times in the string. 
+Replace these consecutive 
 occurrences of the character '' with  in the string."""
 # Sample Input : 1222311
 # Sample Output : (1, 1) (3, 2) (1, 3) (2, 1)

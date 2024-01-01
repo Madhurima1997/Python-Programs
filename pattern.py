@@ -1,3 +1,4 @@
+'''Prints pattern'''
 n=int(input()) #takes input from user
 l=[str(x) for x in range(n*2) if x%2!=0] #generates list of odd numbers using list comprehension
 for _ in range(n):
