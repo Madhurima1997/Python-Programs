@@ -4,7 +4,7 @@
 value = input('Enter your string here \n')
 print(len(value))
 
-# Write a program that switches the values stored in the variables a and b. 
+# Write a program that switches the values stored in the variables a and b.
 #Take the input in one line
 a,b = map(int, input('Enter a and b with space separated \n').split(' '))
 b,a = a,b
