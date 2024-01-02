@@ -11,17 +11,17 @@ It should tell them the interpretation of their BMI based on the BMI value.
 '''
 import math
 
-height = float(input('Enter your height in meters \n'))
+height = float(input('1Enter your height in meters \n'))
 weight = float(input('Enter your weight in kgs \n'))
 bmi = float(weight)/math.pow(float(height),2)
 
 if bmi>35:
     print("You're clinically obese")
-elif bmi>30 and bmi<=35:
+elif 30<bmi<=35:
     print("You're Obese")
-elif bmi>25 and bmi<=30:
+elif 25<bmi<=30:
     print("You're slightly overweight")
-elif bmi>18.5 and bmi<=25:
+elif 18.5<bmi<=25:
     print("You've normal weight")
 else:
     print("You're underweight")
